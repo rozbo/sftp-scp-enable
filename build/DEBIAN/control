@@ -1,0 +1,13 @@
+Package:sftp-scp-enabler
+Version:0.1.1
+Section:env
+Priority:optional
+Architecture:iphoneos-arm
+Essential:no
+Depends:openssl
+Recommends:
+Suggests:
+Maintainer:rozbo[rozbo@live.com]
+Conflicts: 
+Replaces: 
+Description:修复开启ios10越狱后不支持sftp和scp。
